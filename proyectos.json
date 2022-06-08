@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "nombre": "Priceando",
+    "descripcion": "Creada para solucionar el problema de emprendedores con los precios: margen y ganancia.",
+    "img": "priceando.png",
+    "url": "https://priceando.netlify.app/"
+  },
+  {
+    "id": 2,
+    "nombre": "Lista de compras",
+    "descripcion": "Aplicacion creada para resolver un problema cotidiano como memorizar los productos que hacen falta.",
+    "img": "listita.png",
+    "url": "https://summerhack-22.web.app/reto5/index.html"
+  },
+
+  {
+    "id": 3,
+    "nombre": "Disney+",
+    "descripcion": "Maquetacion del diseño completo de la web de Disney+ adaptable a distintos dispositivos.",
+    "img": "disney.png",
+    "url": "https://summerhack-22.web.app/reto4/index.html"
+  },
+
+  {
+    "id": 4,
+    "nombre": "Google",
+    "descripcion": "Pagina web diseñada para emular la entrada principal de Google en su version escritorio.",
+    "img": "google.png",
+    "url": "https://summerhack-22.web.app/reto3/index.html"
+  },
+
+  {
+    "id": 5,
+    "nombre": "Podcast",
+    "descripcion": "Puesta en practica la adaptabilidad de la aplicacion dedicada a un podcast.",
+    "img": "portada.jpg",
+    "url": "https://summerhack-22.web.app/reto2/index.html"
+  },
+
+  {
+    "id": 6,
+    "nombre": "Juego match",
+    "descripcion": "Aplicacion diseñada para que dos jugadores lleguen a un posible match en base a los personajes de la serie The Office.",
+    "img": "juego.png",
+    "url": "https://summerhack-22.web.app/reto6/index.html"
+  }
+]
